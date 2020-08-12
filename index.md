@@ -8,7 +8,9 @@
       <p><b>地址：辽宁省大连市</b></p>
     </td>
     <td width="25%">
-      <img src="/aaa.jpg" width="100%">      % 插入证件照代码
+      <img src="/aaa.jpg" width="100%">    
     </td>
   </tr>
 </table>
+
+<a href="https://blog.csdn.net/zhu_rui">英文版</a>
