@@ -11,9 +11,7 @@
       <img src="/aaa.jpg" width="100%">    
     </td>
   </tr>
+  <test>CSDN博客链接：</test>
+  <a href="https://blog.csdn.net/zhu_rui" target="_blank">https://blog.csdn.net/zhu_rui</a>
 </table>
 
-<table border="1>
-<test>CSDN个人主页链接：</test>
-<a href="https://blog.csdn.net/zhu_rui" target="_blank">https://blog.csdn.net/zhu_rui</a>
-</table>
