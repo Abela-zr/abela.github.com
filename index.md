@@ -12,5 +12,3 @@
     </td>
   </tr>
 </table>
-
-<a href="https://blog.csdn.net/zhu_rui">英文版</a>
